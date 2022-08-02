@@ -1,2 +1,2 @@
 # git-course
-repo for git course
+repo for git course at TUNI
